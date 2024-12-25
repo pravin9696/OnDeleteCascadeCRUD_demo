@@ -9,6 +9,10 @@ namespace OnDeleteCascadeCRUD_demo
 {
     internal class StudentCRUD
     {
+        public void pravin_new_git_method()
+        {
+             Console.WriteLine("welcome...");
+        }
         public void Delete_course()
         {
             StudentMGTEntities dbo = new StudentMGTEntities();
